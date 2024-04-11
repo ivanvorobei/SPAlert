@@ -44,7 +44,7 @@ public class AlertAppleMusic17View: UIView, AlertViewProtocol, AlertViewInternal
         #endif
     }()
     
-    public init(title: String?, subtitle: String?, icon: AlertIcon?) {
+    public init(title: String? = nil, subtitle: String? = nil, icon: AlertIcon? = nil) {
         
         if let title = title {
             let label = UILabel()
