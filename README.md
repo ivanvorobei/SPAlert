@@ -71,7 +71,7 @@ dependencies: [
 
 This is an outdated way of doing things. I advise you to use [SPM](#swift-package-manager). However, I will continue to support Cocoapods for some time.
 
-<details><summary>Cocoapods Instalation</summary>
+<details><summary>Cocoapods Installation</summary>
 
 [CocoaPods](https://cocoapods.org) is a dependency manager. For usage and installation instructions, visit their website. To integrate using CocoaPods, specify it in your `Podfile`:
 
